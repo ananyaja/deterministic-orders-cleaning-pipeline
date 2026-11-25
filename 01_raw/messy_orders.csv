@@ -1,0 +1,11 @@
+order_id,customer_name,order_date,amount_inr,status
+1001,  Asha Nair ,2026/03/05,1250.00,Paid
+1002,Rohan Das,05-Mar-2026,890,paid
+1002,Rohan Das,05-Mar-2026,890,paid
+1003,  Meera Iyer,2026-03-06,N/A,Pending
+1004,Karan Mehta,07/03/2026,2450.5,PAID
+1005,Ananya Sen,2026.03.08,—,Cancelled
+1006,  Vikram Rao ,2026/03/09,1500, Paid 
+1007,Priya Verma,09-03-2026,-50,Refunded
+1008,  Vikram Rao ,2026/03/09,1500,Paid
+1009,Suresh Pillai,2026-03-10,3200.00,completed
