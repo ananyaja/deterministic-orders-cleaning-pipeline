@@ -1,0 +1,4 @@
+order_id,customer_name,order_date,amount_inr,status,quarantine_reason
+1003,Meera Iyer,2026-03-06,,Pending,null_amount
+1005,Ananya Sen,2026-03-08,,Cancelled,null_amount
+1007,Priya Verma,2026-03-09,-50.0,Refunded,negative_amount
